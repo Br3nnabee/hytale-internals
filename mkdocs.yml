@@ -48,3 +48,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Architecture: architecture.md
+  - Startup Sequence: startup-flow.md
