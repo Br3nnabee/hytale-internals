@@ -7,10 +7,10 @@ This means that most of the program becomes very difficult to read, with no meta
 This project is dedicated to piecing all of the assembly code together into something that can be understood by developers.
 
 ???+ note
-    Much of the "noise" has been identified by compiling fake EXEs and using their pdbs to generate signatures. This may cause some inaccuracies/poor naming.
+    Much of the "noise" has been identified by compiling fake EXEs and using their pdbs to generate signatures. This may cause some inaccuracies/poor naming. Hytale.Nat_without_sentry.sig and Noesis_Reference.sig cannot be added to the repo due to proprietary code, however the other 3 are available.
 
 !!! warning
-    This is largely an internal document for myself until I get a grasp of the project, however there are others helping me at the [discord server](https://discord.gg/FNYG3uuZgn). Function IDs etc are not pinned and may vary, however a ghidra XML export exists for those who wish to help. It does not contain the binary, so ensure you have the initial HytaleClient.exe.
+    This is largely an internal document for myself until I get a grasp of the project, however there are others helping me at the [discord server](https://discord.gg/FNYG3uuZgn). Function IDs etc are not pinned and may vary, however some of the .sigs are in the repo for those who wish to help. It does not contain the binary, so ensure you have the initial HytaleClient.exe.
 
 ???+ note  
     This analysis is currently being performed on HytaleClient.exe release version 1.0.0.0
